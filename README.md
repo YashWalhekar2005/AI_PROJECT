@@ -1,1 +1,1 @@
-# AI_PROJECT
+# face_recognition_project
